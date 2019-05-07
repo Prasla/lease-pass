@@ -1,0 +1,69 @@
+
+.c5{
+    color:#000000;
+    text-decoration:none;
+    vertical-align:baseline;
+    font-size:11pt;
+    font-style:italic
+}
+.c0{
+    vertical-align:baseline;
+    font-size:11pt;
+    font-style:normal;
+    color:#000000;
+    text-decoration:none
+}
+.c6{
+    padding-top:0pt;
+    padding-bottom:5pt;
+    line-height:1.15;
+    text-align:center
+}
+.c1{
+    padding-top:0pt;
+    padding-bottom:5pt;
+    line-height:1.15;
+    text-align:justify
+}
+.c7{
+    background-color:#ffffff;
+    max-width:468pt;
+    padding:72pt 72pt 72pt 72pt
+}
+.c3{
+    font-weight:700;
+    font-family:"Arial"
+}
+.c2{
+    font-weight:400;
+    font-family:"Arial"
+}
+.c4{
+    height:11pt
+}
+.title{
+    padding-top:24pt;
+    color:#000000;
+    font-weight:700;
+    font-size:36pt;
+    padding-bottom:6pt;
+    font-family:"Arial";
+    line-height:1.15;
+    page-break-after:avoid;
+    orphans:2;
+    widows:2;
+    text-align:left
+}
+.subtitle{
+    padding-top:18pt;
+    color:#666666;
+    font-size:24pt;
+    padding-bottom:4pt;
+    font-family:"Georgia";
+    line-height:1.15;
+    page-break-after:avoid;
+    font-style:italic;
+    orphans:2;
+    widows:2;
+    text-align:left
+}
